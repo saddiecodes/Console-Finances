@@ -16,8 +16,8 @@ To use this code, include the financial records dataset in the `finances` array 
 
 ## Results
 
-Upon execution, the script will print the financial analysis to the console, providing valuable insights into the company's financial performance over the specified period.
 The results should look like:
+
 Financial Analysis
 ----------------------------
 Total Months: 86
